@@ -16,7 +16,7 @@ ecdsa==0.11
 futures==3.1.1
 html5lib==0.999
 itsdangerous==0.24
-lxml==3.4.0
+lxml==4.6.3
 ndg-httpsclient==0.3.2
 numpy==1.8.2
 obMenu==1.0
